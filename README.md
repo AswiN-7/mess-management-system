@@ -1,3 +1,7 @@
 # mess-management-system
 ## two logins are there one ADMIN, USER(student)
-ADMIN 
+Admin Id | ADMIN
+---------|---------
+Password | 1!2@3#4$
+
+
